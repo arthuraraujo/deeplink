@@ -12,8 +12,10 @@
 
     <div id="location"></div>
     <script>
-        document.getElementById("location").innerHTML =
-            window.location.href;
+        const href = window.location.href;
+        const hrefArray = href.split('/');
+        const length = hrefArray.length
+        document.getElementById("location").innerHTML = hrefArray[length - 1];
 
     </script>
 </body>
