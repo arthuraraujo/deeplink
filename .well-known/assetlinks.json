@@ -4,6 +4,9 @@
     "namespace": "android_app",
     "package_name": "br.com.azulseguros.app",
     "sha256_cert_fingerprints":
-    ["EA:BA:49:F6:49:20:2E:47:B2:92:5F:65:BC:9C:44:83:54:E9:05:A1:A5:CB:83:3F:AC:A6:90:1F:1E:91:B9:A0"]
+    [
+     "70:95:DA:C4:AA:67:45:74:8A:83:F9:84:89:64:15:1D:E0:9B:4D:C7:CB:6D:93:D0:A0:13:0C:F9:29:70:81:0F",
+     "EA:BA:49:F6:49:20:2E:47:B2:92:5F:65:BC:9C:44:83:54:E9:05:A1:A5:CB:83:3F:AC:A6:90:1F:1E:91:B9:A0"
+    ]
   }
 }]
