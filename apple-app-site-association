@@ -3,12 +3,16 @@
     "apps": [],
     "details": [
       {
-        "appID": "6225898S6M.br.com.azulseguros.app",
-        "paths": [
-          "*"
-        ],
         "appIDs": [
-        "6225898S6M.br.com.azulseguros.app"
+          "6225898S6M.br.com.azulseguros.app"
+        ],
+        "components": [
+          {
+            "/": "/recuperacao-de-senha/",
+            "?": {
+              "hashLocation": "?*"
+            }
+          }
         ]
       }
     ]
